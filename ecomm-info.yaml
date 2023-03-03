@@ -1,6 +1,6 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
-metadata: null
+metadata: eComm
 name: www-ecomm
 description: handysnacks ecommsite
 spec: null

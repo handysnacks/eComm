@@ -3,9 +3,11 @@ kind: Component
 metadata:
   name: www-ecomm
   description: handysnacks ecommsite
+  annotations:
+    github.com/project-slug: eComm
 spec:
   type: website
   lifecycle: production
-  owner: eComm
+  owner: user: ecomm
   version: "1.0"
 

@@ -5,6 +5,7 @@ metadata:
   description: handysnacks ecommsite
   annotations:
     github.com/project-slug: eComm
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: website
   lifecycle: production

@@ -4,7 +4,7 @@ metadata:
   name: www-ecomm
   description: handysnacks ecommsite
   annotations:
-    github.com/project-slug: eComm
+    github.com/project-slug: handysnacks/eComm
     backstage.io/techdocs-ref: dir:.
 spec:
   type: website

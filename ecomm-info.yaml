@@ -1,13 +1,13 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-name: www-ecomm
-description: handysnacks ecommsite
+  name: www-ecomm
+  description: handysnacks ecommsite
 spec:
-type: website
-lifecycle: production
-owner: eComm
-version: "1.0"
+  type: website
+  lifecycle: production
+  owner: eComm
+  version: "1.0"
 steps:
   build-prj:
     type: build

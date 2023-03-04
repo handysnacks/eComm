@@ -9,6 +9,6 @@ metadata:
 spec:
   type: website
   lifecycle: production
-  owner: user: ecomm
+  owner: eComm
   version: "1.0"
 

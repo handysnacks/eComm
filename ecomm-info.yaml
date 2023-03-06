@@ -16,4 +16,4 @@ spec:
   providesApis: 
     - petstore  
   dependsOn:
-    - component: HandySnakcs Sample
+    - component: default/HandySnakcs Sample

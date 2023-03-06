@@ -12,4 +12,8 @@ spec:
   lifecycle: production
   owner: eComm
   version: "1.0"
-
+  system: testing
+  providesApis: 
+    - petstore  
+  dependsOn:
+    - resource:default/artists-db

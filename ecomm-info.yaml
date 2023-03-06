@@ -16,4 +16,4 @@ spec:
   providesApis: 
     - petstore  
   dependsOn:
-    - component: default/HandySnakcs
+    - component:default/www-artist

@@ -16,4 +16,4 @@ spec:
   providesApis: 
     - petstore  
   dependsOn:
-    - resource:default/artists-db
+    - component: HandySnakcs Sample

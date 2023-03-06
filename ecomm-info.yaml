@@ -3,6 +3,7 @@ kind: Component
 metadata:
   name: www-ecomm
   description: handysnacks ecommsite
+  providesApi: petstore    
   annotations:
     github.com/project-slug: handysnacks/eComm
     backstage.io/techdocs-ref: dir:.

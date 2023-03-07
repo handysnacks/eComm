@@ -7,7 +7,6 @@ metadata:
   annotations:
     github.com/project-slug: handysnacks/eComm
     backstage.io/techdocs-ref: dir:.
-    jenkins.io/job-full-name: ghe-get_all_repository_names/GitHub_List_All_Repos
 spec:
   type: website
   lifecycle: production

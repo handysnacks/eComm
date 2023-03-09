@@ -7,7 +7,7 @@ metadata:
   annotations:
     github.com/project-slug: handysnacks/eComm
     backstage.io/techdocs-ref: dir:.
-    jenkins.io/job-full-name: ECOM_WCS_REACT/WCS_MSC_poc
+    jenkins.io/job-full-name: Project _MB_ACE_Build_gitHub
 spec:
   type: website
   lifecycle: production

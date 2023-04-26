@@ -14,7 +14,7 @@ metadata:
     - costco
 spec:
   type: service
-  lifecycle: production
+  lifecycle: development
   owner: team-alpha
   providesApis:
     - wayback-archive

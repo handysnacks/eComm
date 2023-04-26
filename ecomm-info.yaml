@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: www-ecomm
+  name: www-digital
   description: handysnacks ecommsite
   providesApi: petstore    
   annotations:

@@ -5,7 +5,7 @@ metadata:
   title: Digital Archive
   description: Archive of the digital teams content
   annotations:
-    github.com/project-slug: roadiehq/demo-data
+    github.com/project-slug: handysnacks/eComm
   tags:
     - angular
     - react

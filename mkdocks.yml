@@ -1,0 +1,8 @@
+site_name: "Digital Site Archive Documentation"
+site_description: "Documentation for the Digital archive component"
+
+plugins:
+  - techdocs-core
+
+nav:
+  - Overview: index.md

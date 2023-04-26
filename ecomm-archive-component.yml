@@ -6,7 +6,7 @@ metadata:
   description: Archive of the digital teams content
   annotations:
     github.com/project-slug: handysnacks/eComm
-    backstage.io/techdocs-ref: dir:./docs/
+    backstage.io/techdocs-ref: dir:../docs/
   tags:
     - angular
     - react

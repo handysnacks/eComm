@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: digital-archive
+  name: digital-site-archive
   title: Digital Archive
   description: Archive of the digital teams content
   annotations:

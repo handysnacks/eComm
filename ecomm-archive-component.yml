@@ -6,7 +6,7 @@ metadata:
   description: Archive of the digital teams content
   annotations:
     github.com/project-slug: handysnacks/eComm
-    backstage.io/techdocs-ref: url:https://learn.microsoft.com/en-us/azure/api-management/
+     backstage.io/techdocs-ref: dir:./docs/
   tags:
     - angular
     - react

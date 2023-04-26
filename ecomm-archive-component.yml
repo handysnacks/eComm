@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: digital-archive
   title: Digital Archive
-  description: Archive of the digital team
+  description: Archive of the digital teams content
   annotations:
     github.com/project-slug: roadiehq/demo-data
   tags:

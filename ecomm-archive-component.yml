@@ -6,6 +6,7 @@ metadata:
   description: Archive of the digital teams content
   annotations:
     github.com/project-slug: handysnacks/eComm
+    backstage.io/techdocs-ref: url:https://costcointegration.atlassian.net/wiki/spaces/ES/pages/534642768/Application+Design
   tags:
     - angular
     - react
